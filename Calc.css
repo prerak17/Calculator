@@ -1,0 +1,41 @@
+.but{
+    font-size: 150%;
+    height: 3em;
+    width: 5em;
+    border-radius: 10px;
+    color: blue;
+    background-color: black;
+    
+}
+.but:hover{
+    font-size: 170%;
+    
+   color: red;
+}
+.but1{
+    font-size: 150%;
+    height: 3em;
+    width: 5em;
+    border-radius: 15px;
+    color: blue;
+    background-color:orange;
+    
+}
+.but1:hover{
+    font-size: 160%;
+    color:black;
+}
+.text{
+    height: 4em;
+    width: 37em;
+    border-radius: 10px;
+    border-color: black;
+}
+.div{
+    margin: 0 auto;
+   margin-top: 15em;
+   border-style: solid;
+   width: 39.5em;
+   border-radius: 6px;
+   background-color:darkblue;
+}
